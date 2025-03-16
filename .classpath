@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/javafx/javafx-sdk-23.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdftest-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdftest-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdftest-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/sign-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/barcodes-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/barcodes-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/barcodes-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/font-asian-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/forms-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/forms-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/forms-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/hyph-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/io-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/io-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/io-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/kernel-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/kernel-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/kernel-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/layout-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/layout-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/layout-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdfa-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdfa-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/pdfa-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/sign-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/sign-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/styled-xml-parser-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/styled-xml-parser-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/styled-xml-parser-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/svg-7.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/svg-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/iText7-Core-7.1.4/svg-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
